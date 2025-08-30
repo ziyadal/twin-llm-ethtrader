@@ -14,4 +14,4 @@ A Python/Jupyter project that:
 ```bash
 uv add openai yfinance pandas numpy
 cp .env.example .env   # add your OpenAI API key
-uv run python eth_dual_llm_signal.py
+uv run twin-llm-ethtrader.ipynb
